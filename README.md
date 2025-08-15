@@ -5,7 +5,7 @@ Sou um desenvolvedor e entusiasta de tecnologia, atualmente cursando **Ciência 
 
 Atuo como **Técnico de T.I.** na Unifron, onde presto suporte a hardware, software e administro sistemas em Windows Server. Sou apaixonado por transformar ideias em soluções práticas através do código.
 
-### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/eaea8ff0-0050-47c2-8e97-b6fd22d6cdff" />
+### 
  Meus Projetos Atuais:
 
 -   **🌐 Site para Medicina Veterinária:** Desenvolvendo um sistema web com funcionalidades únicas, com foco na arquitetura de banco de dados e implementação do back-end.
