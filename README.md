@@ -8,13 +8,15 @@ Atuo como **Técnico de T.I.** na Unifron, onde presto suporte a hardware, softw
 ### 
  Meus Projetos Atuais:
 
--   **🌐 Site para Medicina Veterinária:** Desenvolvendo um sistema web com funcionalidades únicas, com foco na arquitetura de banco de dados e implementação do back-end.
--   **✨ Projeto Metaverso:** Criando ambientes virtuais complexos, aplicando conceitos de modelagem 3D e matemática espacial para desenvolver experiências imersivas.
+-   ** Site para Medicina Veterinária:** Desenvolvendo um sistema web com funcionalidades únicas, com foco na arquitetura de banco de dados e implementação do back-end.
+-   ** Projeto Metaverso:** Criando ambientes virtuais complexos, aplicando conceitos de modelagem 3D e matemática espacial para desenvolver experiências imersivas.
 
-### 💻 Tecnologias e Habilidades:
+###  Tecnologias e Habilidades:
 
 -   **Linguagens:** C, C++, C#, Python
 -   **Sistemas e Infra:** Windows Server, Suporte de Hardware & Software
 -   **Outros:** SQL, Modelagem 3D
 
----
+
+
+-----
