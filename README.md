@@ -1,3 +1,2 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!!;My+name+is+Jos%C3%A9+Gabriel)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=3E1AF7&background=33FF3900&center=true&vCenter=true&multiline=true&width=435&height=107&lines=Hellow!!;My+name+is+Jos%C3%A9+Gabriel;I'm+a+computer+science+student.)](https://git.io/typing-svg)
 ---------------------------------------------------------------------------------------------------------------------------------
