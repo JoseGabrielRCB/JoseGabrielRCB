@@ -2,8 +2,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------
 ###  Meus Projetos Atuais
 
--   ** Site para Medicina Veterinária:** Desenvolvendo um sistema web com funcionalidades únicas, com foco na arquitetura de banco de dados e implementação do back-end.
--   ** Projeto Metaverso:** Criando ambientes virtuais complexos, aplicando conceitos de modelagem 3D e matemática espacial para desenvolver experiências imersivas.
+-   **Site para Medicina Veterinária:** Desenvolvendo um sistema web com funcionalidades únicas, com foco na arquitetura de banco de dados e implementação do back-end.
+-   **Projeto Metaverso:** Criando ambientes virtuais complexos, aplicando conceitos de modelagem 3D e matemática espacial para desenvolver experiências imersivas.
 
 
 
