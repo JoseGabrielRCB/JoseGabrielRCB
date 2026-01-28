@@ -9,6 +9,6 @@
 
 ### Tecnologias e Habilidades
 
--   **Linguagens:** C, C++, C#, Python
+-   **Linguagens:** C, C++, Python
 -   **Sistemas e Infra:** Windows Server, Suporte de Hardware & Software
 -   **Outros:** SQL, Modelagem 3D
